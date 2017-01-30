@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 89e7897527ec4614fb750c6a8dbd8627
+timeCreated: 1485783485
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ChromaticWave_geo
+    100002: CoarseBristles_geo
+    100004: Disco_geo
+    100006: DoubleTaperedFlat_geo
+    100008: DoubleTaperedMarker_geo
+    100010: DuctTape_geo
+    100012: Electricity_geo
+    100014: Fire_geo
+    100016: Flat_geo
+    100018: Highlighter_geo
+    100020: Hypercolor_geo
+    100022: HyperGrid_geo
+    100024: Ink_geo
+    100026: Light_geo
+    100028: LightWire_geo
+    100030: Marker_geo
+    100032: NeonPulse_geo
+    100034: OilPaint_geo
+    100036: Paper_geo
+    100038: Rainbow_geo
+    100040: SoftHighlighter_geo
+    100042: Splatter_geo
+    100044: Streamers_geo
+    100046: TaperedFlat_geo
+    100048: TaperedMarker_geo
+    100050: ThickPaint_geo
+    100052: Toon_geo
+    100054: //RootNode
+    100056: VelvetInk_geo
+    100058: Waveform_geo
+    100060: Wire_geo
+    400000: ChromaticWave_geo
+    400002: CoarseBristles_geo
+    400004: Disco_geo
+    400006: DoubleTaperedFlat_geo
+    400008: DoubleTaperedMarker_geo
+    400010: DuctTape_geo
+    400012: Electricity_geo
+    400014: Fire_geo
+    400016: Flat_geo
+    400018: Highlighter_geo
+    400020: Hypercolor_geo
+    400022: HyperGrid_geo
+    400024: Ink_geo
+    400026: Light_geo
+    400028: LightWire_geo
+    400030: Marker_geo
+    400032: NeonPulse_geo
+    400034: OilPaint_geo
+    400036: Paper_geo
+    400038: Rainbow_geo
+    400040: SoftHighlighter_geo
+    400042: Splatter_geo
+    400044: Streamers_geo
+    400046: TaperedFlat_geo
+    400048: TaperedMarker_geo
+    400050: ThickPaint_geo
+    400052: Toon_geo
+    400054: //RootNode
+    400056: VelvetInk_geo
+    400058: Waveform_geo
+    400060: Wire_geo
+    2300000: ChromaticWave_geo
+    2300002: CoarseBristles_geo
+    2300004: Disco_geo
+    2300006: DoubleTaperedFlat_geo
+    2300008: DoubleTaperedMarker_geo
+    2300010: DuctTape_geo
+    2300012: Electricity_geo
+    2300014: Fire_geo
+    2300016: Flat_geo
+    2300018: Highlighter_geo
+    2300020: Hypercolor_geo
+    2300022: HyperGrid_geo
+    2300024: Ink_geo
+    2300026: Light_geo
+    2300028: LightWire_geo
+    2300030: Marker_geo
+    2300032: NeonPulse_geo
+    2300034: OilPaint_geo
+    2300036: Paper_geo
+    2300038: Rainbow_geo
+    2300040: SoftHighlighter_geo
+    2300042: Splatter_geo
+    2300044: Streamers_geo
+    2300046: TaperedFlat_geo
+    2300048: TaperedMarker_geo
+    2300050: ThickPaint_geo
+    2300052: Toon_geo
+    2300054: VelvetInk_geo
+    2300056: Waveform_geo
+    2300058: Wire_geo
+    3300000: ChromaticWave_geo
+    3300002: CoarseBristles_geo
+    3300004: Disco_geo
+    3300006: DoubleTaperedFlat_geo
+    3300008: DoubleTaperedMarker_geo
+    3300010: DuctTape_geo
+    3300012: Electricity_geo
+    3300014: Fire_geo
+    3300016: Flat_geo
+    3300018: Highlighter_geo
+    3300020: Hypercolor_geo
+    3300022: HyperGrid_geo
+    3300024: Ink_geo
+    3300026: Light_geo
+    3300028: LightWire_geo
+    3300030: Marker_geo
+    3300032: NeonPulse_geo
+    3300034: OilPaint_geo
+    3300036: Paper_geo
+    3300038: Rainbow_geo
+    3300040: SoftHighlighter_geo
+    3300042: Splatter_geo
+    3300044: Streamers_geo
+    3300046: TaperedFlat_geo
+    3300048: TaperedMarker_geo
+    3300050: ThickPaint_geo
+    3300052: Toon_geo
+    3300054: VelvetInk_geo
+    3300056: Waveform_geo
+    3300058: Wire_geo
+    4300000: OilPaint_geo
+    4300002: Paper_geo
+    4300004: Marker_geo
+    4300006: Ink_geo
+    4300008: ThickPaint_geo
+    4300010: Wire_geo
+    4300012: TaperedMarker_geo
+    4300014: DoubleTaperedMarker_geo
+    4300016: Highlighter_geo
+    4300018: Flat_geo
+    4300020: TaperedFlat_geo
+    4300022: DoubleTaperedFlat_geo
+    4300024: SoftHighlighter_geo
+    4300026: Light_geo
+    4300028: Fire_geo
+    4300030: Rainbow_geo
+    4300032: VelvetInk_geo
+    4300034: Waveform_geo
+    4300036: Splatter_geo
+    4300038: DuctTape_geo
+    4300040: CoarseBristles_geo
+    4300042: Toon_geo
+    4300044: Electricity_geo
+    4300046: Streamers_geo
+    4300048: Hypercolor_geo
+    4300050: NeonPulse_geo
+    4300052: Disco_geo
+    4300054: HyperGrid_geo
+    4300056: LightWire_geo
+    4300058: ChromaticWave_geo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
